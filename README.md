@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hello! I'm YoItsMrDuckYT 🦆
 
 🎮 I like playing Roblox Rivals, Minecraft, and other games on Steam.
