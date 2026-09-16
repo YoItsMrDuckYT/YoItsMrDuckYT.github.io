@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## Hey! I'm YoItsMrDuckYT 🦆
+## Hello! I'm YoItsMrDuckYT 🦆
 
-🎮 I love playing Roblox Rivals, Minecraft, and other games on Steam.
+🎮 I like playing Roblox Rivals, Minecraft, and other games on Steam.
 🎥 I make gaming content on YouTube and stream on Twitch.
 🎵 You can also find me on TikTok!
 
