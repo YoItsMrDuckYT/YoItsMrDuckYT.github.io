@@ -7,6 +7,7 @@ Personal website for YoItsMrDuckYT.
 - Steam games
 - YouTube
 - Twitch
+- Kick
 - TikTok
 
 ✝ Jesus is King ✝
