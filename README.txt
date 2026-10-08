@@ -1,4 +1,4 @@
-YoItsMrDuck Website â€” Updated
+YoItsMrDuck Website Updated
 
 Upload these files to your GitHub Pages repository:
 - index.html
