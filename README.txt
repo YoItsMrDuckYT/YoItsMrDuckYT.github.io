@@ -1,14 +1,18 @@
-YoItsMrDuck Website — Updated
+YoItsMrDuck Website v3
 
-Upload these files to your GitHub Pages repository:
+THIS ZIP CONTAINS ONLY THE CORRECT FILES FOR GITHUB PAGES:
 - index.html
 - style.css
 
-Updated:
+Replace the existing index.html and style.css in the ROOT of your GitHub Pages repository.
+Do not rename index.html.
+Do not upload an older YoItsMrDuckYT_index.html over it.
+
+Included in v3:
 - White + orange theme
-- Top hero buttons for YouTube, Instagram, Twitch, Kick, and TikTok
-- Socials section includes YouTube, Twitch, Kick, Instagram, and TikTok
-- Games: Minecraft, Roblox, and Other Steam Games
+- Top buttons: YouTube, Instagram, Twitch, Kick, TikTok
+- Games: Minecraft, Roblox, Other Steam Games
+- Socials section with all five platforms
 
 Links:
 YouTube: https://www.youtube.com/@YoItsMrDuck
