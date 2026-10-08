@@ -96,6 +96,7 @@ a{color:inherit;text-decoration:none}
   border:1px solid var(--line);
   border-radius:24px;
   padding:32px 28px 24px;
+  box-shadow: 0 4px 24px rgba(0,0,0,.04);
 }
 .about-label{
   font-size:.7rem;letter-spacing:.14em;font-weight:800;color:var(--muted);margin-bottom:14px
